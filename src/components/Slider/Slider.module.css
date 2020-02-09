@@ -1,0 +1,23 @@
+.slider{
+   height: 440px;
+   background-image: url('https://uc.uxpin.com/files/1086128/1053332/The_37_Best_SaaS_Companies_and_Products_to_Inspire_You_in_2020-f31f9b0996e63f8aa9b30be3463288d4-34e40b.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+}
+.button {
+   position: relative;
+   top: 73%;
+   left: 4.5%;
+}
+
+.button button {
+   background-color: black;
+   width: 170px;
+   border-radius: 8px;
+}
+
+
+
+
+
+

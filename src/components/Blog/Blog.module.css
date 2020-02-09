@@ -1,0 +1,63 @@
+.card {
+  width: 35rem;
+  margin: auto;
+  /* text-align-last: left; */
+}
+
+.blog {
+  margin-bottom: 217px;
+}
+.cardBody h5 {
+  width: 16em;
+  margin-top: 50px;
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 19px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.icon {
+  margin-top: 3em;
+  display: flex;
+}
+
+.blogImg {
+  width: 550px;
+  margin-top: 80px;
+  margin-bottom: 58px;
+}
+
+span,
+p {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+p:nth-child(3) {
+  margin-top: 3em;
+}
+
+p:nth-child(2) {
+  margin-top: 2em;
+}
+.img img {
+  width: 50px;
+}
+
+.data {
+  width: 25%;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 15px;
+}
+
+.icon i {
+  margin-left: 3em;
+  font-size: 3em;
+  margin-right: 10px;
+}

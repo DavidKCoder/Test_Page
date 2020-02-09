@@ -1,0 +1,29 @@
+.contact {
+  height: 100vh;
+}
+
+.contactInfo {
+  /* border: 1px solid black; */
+  margin-top: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.contactInfo a:hover {
+  color: #000000;
+}
+
+.info {
+  margin-left: 25px;
+}
+.avatar img{
+  text-align: center;
+  width: 400px;
+}
+h4 {
+  font-size: 30px;
+}
+p {
+  font-size: 18px;
+}

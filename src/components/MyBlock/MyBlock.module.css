@@ -1,0 +1,5 @@
+.block {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 0 15px;
+}
