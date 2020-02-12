@@ -1,8 +1,10 @@
 .block {
    margin-top: 50px;
+   
 }
 .card {
    width: 18rem;
+   
 }
 
 .cardBody h5 {
@@ -29,4 +31,9 @@ p {
    font-size: 17px;
    font-family: Arial, Helvetica, sans-serif;
    margin-left: 15px;
+}
+
+.tags {
+   color: red;
+   text-decoration: none;
 }
