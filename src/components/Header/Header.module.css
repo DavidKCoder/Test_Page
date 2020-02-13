@@ -8,8 +8,12 @@
 }
 
 .a {
-  margin-right: 20%;
+  margin-right: 15%;
 }
+.a:hover {
+  color: rgb(248, 214, 62);
+}
+
 .a a {
   margin: 0 30px;
   text-decoration: none;
@@ -17,14 +21,25 @@
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
+  transition: 0.5s;
+}
+
+.a a:hover {
+  color: rgb(33, 175, 241);
 }
 .name {
   margin: 0;
+  padding-left: 110%;
   color: aliceblue;
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: lighter;
   margin-left: 5%;
+  transition: 0.5s;
+}
+
+.name:hover {
+  color: rgb(33, 175, 241);
 }
 
 .button button {

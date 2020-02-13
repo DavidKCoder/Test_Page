@@ -1,6 +1,8 @@
-.img {
-    height: 400px;
-    margin-bottom: 40px;
+.carousel img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 480px;
 }
 
 

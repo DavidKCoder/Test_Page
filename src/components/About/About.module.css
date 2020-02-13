@@ -1,0 +1,21 @@
+.about {
+margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+  width: 80%;
+}
+
+.text h3 {
+  font-size: 30px;
+  text-transform: uppercase;
+  border-bottom: 1px dotted rgb(243, 182, 49);
+}
+
+p {
+  text-align: justify;
+}

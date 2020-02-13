@@ -7,6 +7,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  text-align: left;
 }
 
 .contactInfo a:hover {
@@ -16,13 +17,16 @@
 .info {
   margin-left: 25px;
 }
-.avatar img{
+
+.avatar img {
   text-align: center;
   width: 400px;
 }
 h4 {
+  margin: 0;
   font-size: 30px;
 }
 p {
+  
   font-size: 18px;
 }
